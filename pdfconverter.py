@@ -1,5 +1,5 @@
 # importing fpdf
-from fpdf import FPDF
+from fpdf import FPDF # pip install fpdf
 # importing os
 import os
 
