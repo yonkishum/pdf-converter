@@ -7,7 +7,7 @@ first you need to install python, after that install pip.
 
 you can check if you have pip installed by typing **"pip --version"** if have no version follow the next instructions:
 
-* check your ensurepip module by type: On Windows: **"py -m ensurepip --upgrade"**, On linux python -m ensurepip --upgrade
+* check your ensurepip module by type: On Windows: **"py -m ensurepip --upgrade"**, On linux **"python -m ensurepip --upgrade"**
 * after that type: on Windows **"py get-pip.py"**, on linux **"python get-pip.py"**
 
 make sure you have a folder claled **"input_images"** on root folder
